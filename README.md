@@ -23,7 +23,7 @@ This project demonstrates a complete **DevOps CI/CD pipeline** for a Spring Boot
 
 ## 🏗️ Pipeline Architecture
 
-![Pipeline Architecture](./images/pipeline-architecture.png)
+![Pipeline Architecture](./images/pipeline_architecture.png)
 
 The pipeline follows a three-stage automated workflow:
 
