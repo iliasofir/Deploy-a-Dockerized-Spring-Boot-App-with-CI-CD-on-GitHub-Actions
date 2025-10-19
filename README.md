@@ -1,6 +1,5 @@
 # DevOps CI/CD Pipeline with Spring Boot, Railway & UptimeRobot
 
-![Build Status](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/build.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.6-green?logo=spring)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)
@@ -126,7 +125,8 @@ Continuous health checks with instant alerting to ensure high availability and q
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/iliasofir/Deploy-a-Dockerized-Spring-Boot-App-with-CI-CD-on-GitHub-Actions
+.git
 cd YOUR_REPO
 
 # Build the application
@@ -241,44 +241,7 @@ curl http://localhost:8080/api/health
 - [ ] Configure automated backups
 - [ ] Add security scanning in CI pipeline
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Spring Boot team for the excellent framework
-- Railway for providing seamless deployment experience
-- UptimeRobot for reliable monitoring services
-- The DevOps community for continuous inspiration
-
----
 
 **⭐ If you find this project helpful, please consider giving it a star!**
 
